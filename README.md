@@ -53,7 +53,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
 | [Politiet](https://www.politiet.no/design/)                                    |            |              |      ✔️       |                                                               |
-| [Posten/Bring -Hedwig](https://hedwig.posten.no/)                              |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
+| [PostenBring - Hedwig](https://hedwig.posten.no/)                              |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig-design-system) |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/)  |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
